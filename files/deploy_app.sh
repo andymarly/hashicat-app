@@ -13,7 +13,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Ciao ciao questa e' la ${PREFIX}'s app. Ti diamo il benvenuto
+  Ciao ciao questa e' la ${PREFIX}'s app. Ti diamo il malvenuto
   <!-- END -->
 
   </div>
